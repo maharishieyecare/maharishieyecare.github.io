@@ -1,0 +1,54 @@
+.sidebar1 {
+
+background-color: #308093;
+
+}
+
+
+#quote {
+margin-top: 5.5em;
+	color: white;
+	font-family: bat;
+}
+
+
+
+@font-face {
+
+font-family: bat;
+src: url("1.ttf");
+
+	}
+	#header {
+		height: 500px;
+		font-size: 70px;
+		background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("https://15128-presscdn-0-60-pagely.netdna-ssl.com/wp-content/uploads/2015/12/newtopdoc-994x506.jpg");
+		font-family: bat;
+		color: white;
+}
+
+#heading {
+font-family: bat;
+		color: black;
+				font-size: 70px;
+
+
+}
+
+
+.sidebar1 {
+	
+
+border: 1px solid #eee;
+border-top: none;
+
+}
+
+body {
+	background-color: #fbfbfc;
+	font-family: bat;
+}
+#services {
+	font-size: 40px;
+}
+
